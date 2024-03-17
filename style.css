@@ -1,0 +1,13 @@
+body {
+    background-color: greenyellow;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#container {
+    width: 100vw; /* view width */
+    height: 30vh; /* view height */
+    background: url('../Atividade-1/imagen/cabeçalho3.jpg');
+    background-size: cover;
+    background-position:0cap;
+}
